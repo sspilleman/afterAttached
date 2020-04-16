@@ -1,0 +1,8 @@
+.DS_STORE
+Thumbs.db
+
+# Dependencies
+node_modules
+
+# Compiled files
+dist

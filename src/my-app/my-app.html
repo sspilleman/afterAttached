@@ -1,0 +1,14 @@
+<import from="../pages/g2/g2"></import>
+<import from="../pages/welcome/welcome.html"></import>
+
+<header class="header-container">
+    <nav>
+        <ul style="margin-left: 1rem;">
+            <li repeat.for="route of menu"><a goto="${route.link}">${route.title}</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="container">
+    <au-viewport name="main"></au-viewport>
+</div>
