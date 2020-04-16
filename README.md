@@ -1,14 +1,17 @@
-# vnext-webpack
+## Install
 
-This project is bootstrapped by [aurelia/new](https://github.com/aurelia/new).
+```
+git clone git@github.com:sspilleman/afterAttached.git 
+```
 
-## Start dev web server
+## Dependencies
 
-    npm start
+```
+npm i
+```
 
-## Build the app
+## Run
 
-Build files to dist folder.
-
-    npm run build
-
+```
+npm run build
+```
